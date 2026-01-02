@@ -1,0 +1,8 @@
+{
+  "agent_name": "UNCONFIGURED",
+  "listen_port": 8080,
+  "listen_host": "0.0.0.0",
+  "crm_endpoint": "https://crm.actionapi.ca",
+  "api_key_env": "ACTO",
+  "_setup_notes": "Edit agent_name and listen_port. See SETUP.md for details."
+}
